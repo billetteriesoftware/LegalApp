@@ -1,0 +1,20 @@
+current directory: /Users/pankajstaple/LegalApp/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+/Users/pankajstaple/.rvm/rubies/ruby-2.7.5/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/pankajstaple/LegalApp/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20241226-3053-177gn72 sitelibdir\=./.gem.20241226-3053-177gn72 clean
+
+current directory: /Users/pankajstaple/LegalApp/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20241226-3053-177gn72 sitelibdir\=./.gem.20241226-3053-177gn72
+compiling nkf.c
+linking shared-object nkf.bundle
+ld: warning: -multiply_defined is obsolete
+ld: warning: ignoring file '/Users/pankajstaple/.rvm/rubies/ruby-2.7.5/lib/libruby.2.7.dylib': found architecture 'arm64', required architecture 'x86_64'
+
+current directory: /Users/pankajstaple/LegalApp/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20241226-3053-177gn72 sitelibdir\=./.gem.20241226-3053-177gn72 install
+/opt/homebrew/opt/coreutils/bin/ginstall -c -m 0755 nkf.bundle ./.gem.20241226-3053-177gn72
+
+current directory: /Users/pankajstaple/LegalApp/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20241226-3053-177gn72 sitelibdir\=./.gem.20241226-3053-177gn72 clean

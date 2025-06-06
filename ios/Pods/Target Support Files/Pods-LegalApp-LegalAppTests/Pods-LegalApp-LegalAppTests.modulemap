@@ -1,0 +1,6 @@
+module Pods_LegalApp_LegalAppTests {
+  umbrella header "Pods-LegalApp-LegalAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

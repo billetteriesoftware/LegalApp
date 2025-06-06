@@ -1,0 +1,18 @@
+current directory: /Users/pankajstaple/Desktop/Pankaj/LegalApp/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/pankajstaple/Desktop/Pankaj/LegalApp/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250211-3894-bgbp5k sitelibdir\=./.gem.20250211-3894-bgbp5k clean
+
+current directory: /Users/pankajstaple/Desktop/Pankaj/LegalApp/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250211-3894-bgbp5k sitelibdir\=./.gem.20250211-3894-bgbp5k
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Users/pankajstaple/Desktop/Pankaj/LegalApp/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250211-3894-bgbp5k sitelibdir\=./.gem.20250211-3894-bgbp5k install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20250211-3894-bgbp5k
+
+current directory: /Users/pankajstaple/Desktop/Pankaj/LegalApp/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250211-3894-bgbp5k sitelibdir\=./.gem.20250211-3894-bgbp5k clean

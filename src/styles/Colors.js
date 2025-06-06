@@ -1,0 +1,38 @@
+export default {
+  White: '#FFFFFF',
+  Black: '#000000',
+  MantisGreen: '#64B560', //intro button backgtound Color
+  TealBlue: '#007F86', //intro heading  Color
+  LightGreen: '#009285',
+  DimGray: '#686868', //intro title color
+  LightGray: '#868686',
+  'Tea Green': '#D1E9CF',
+  'Sea Green': '#29A7AE',
+  'bluish-green': '#1999A0',
+  'light blue': '#007F864D',
+  'Pale Aqua': '#DFECED',
+  'Dim Gray': '#767676',
+  Jet: '#393939',
+  bgColor: '#f8f8f8',
+  gray: '#787878',
+  gray1: '#4F4F4F',
+  gray2: '#515151',
+  gray3: '#696969',
+  gray4: '#494949',
+  gray5: '#E0F0DF',
+  gray6: '#CEDADC',
+  gray7: '#D7D7D7',
+  gray8: '#524C4C',
+  lineTealBlue: '#329297',
+  borderColor: '#EEEEEE',
+  MintRed: '#FF4040',
+  crossColor: '#B3B3B3',
+  lightMintGreen: '#64B56033',
+  linghtBlue: '#01778112',
+  mintBlack: '#363636',
+  placeHolderColor: '#a8a8a8',
+  faddedBlue: '#7cbbc0',
+  placeHolderColor1:'#C6C6C6',
+  Black1:'#061B2E',
+  arrowColor:'#6C6C6C'
+};

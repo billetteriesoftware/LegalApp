@@ -1,0 +1,6 @@
+module Pods_LegalApp {
+  umbrella header "Pods-LegalApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "802830033561",
+    "project_id": "legal-app-40d4b",
+    "storage_bucket": "legal-app-40d4b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802830033561:android:dac020616936ace9f6ce08",
+        "android_client_info": {
+          "package_name": "com.legalapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHySGVCb_L7tzRE3w-KCe6xHAuN5Jwn0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
